@@ -1,5 +1,11 @@
 ### Hi there 👋 Welcome to my github :octocat:
 
+
+![nabilraihann GitHub stats](https://github-readme-stats.vercel.app/api?username=nabilraihann&show_icons=true&theme=chartreuse-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilraihann&layout=compact&theme=great-gatsby)](https://github.com/nabilraihann/github-readme-stats)
+
+
 <!--
 **nabilraihann/nabilraihann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
