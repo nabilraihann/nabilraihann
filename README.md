@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabil</h1>
-<h3 align="center">A passionate data engineer from Indonesia</h3>
+<!-- <h3 align="center">A passionate data engineer from Indonesia</h3> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
